@@ -1,1 +1,2 @@
-**BibTeX** - 
+**BibTeX** - BibTeX is a separate program from LaTeX. LaTeX writes information about citations and which .bib files use in a ".aux" file.  
+BibTeX reads this file and outputs a ".bbi" file containing LaTe commands to produce the source list.
