@@ -1,0 +1,1 @@
+**DOI.**  Digital Object Identifier.  An ID number for a piece of content assigned by the creator or publisher via CrossRef, which is a publishers' consortium.  The DOI is part of a permalink to the full text of the content/object online.  DOIs are often used in bibliographies.
