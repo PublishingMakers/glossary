@@ -1,1 +1,1 @@
-**LaTeX** - LaTeX is a typesetting markup language originally created to ease the process of setting mathematical notation. It is now widely used in the hard sciences as an authoring platform. 
+**LaTeX** - LaTeX is a typesetting markup language originally created to ease the process of setting mathematical notation. It is now widely used in the hard sciences as an authoring platform. LaTeX automates many of the more tedious aspects of copy editing and bibliography writing. 
